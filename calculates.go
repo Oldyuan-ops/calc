@@ -1,4 +1,4 @@
-package calc
+package calculations
 
 func AddNumber(x, y int) any {
 	return x + y
